@@ -1,8 +1,7 @@
 ## Securly Bypass Organization
 
 
-Bring Bypass to you.
-
+Making Bypasses for you!
 
 
 
