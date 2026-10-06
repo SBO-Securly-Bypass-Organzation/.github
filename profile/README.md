@@ -2,7 +2,7 @@
 
 Making bypasses around securly for you!
 
-If you want to join us, please fill out this form: https://discord.gg/hpBS2DNCdt
+If you want to join us, please send an issue in one of our repos.
 
 
 
