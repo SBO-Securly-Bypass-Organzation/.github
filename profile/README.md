@@ -1,7 +1,10 @@
-## Securly Bypass Organization
+## Securly Bypass Organization ( SBO )
+
+Making bypasses around securly for you!
+
+If you want to join us, please fill out this form: https://discord.gg/hpBS2DNCdt
 
 
-Making Bypasses for you!
 
 
 
